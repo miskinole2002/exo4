@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{B253D759-D28B-4D88-B2D3-CEE8F317F509}|GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B253D759-D28B-4D88-B2D3-CEE8F317F509}|GUI.csproj|C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B253D759-D28B-4D88-B2D3-CEE8F317F509}|GUI.csproj|c:\\users\\mcs\\onedrive\\bureau\\session5\\poc\\exo4\\gui\\syst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B253D759-D28B-4D88-B2D3-CEE8F317F509}|GUI.csproj|solutionrelative:syst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D759-D28B-4D88-B2D3-CEE8F317F509}|GUI.csproj|c:\\users\\mcs\\onedrive\\bureau\\session5\\poc\\exo4\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B253D759-D28B-4D88-B2D3-CEE8F317F509}|GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,38 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAkwD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T02:52:00.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T22:21:10.037Z",
+              "WhenOpened": "2024-07-28T04:03:16.664Z",
               "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1014,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Syst.cs",
+              "DocumentMoniker": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\Syst.cs",
+              "RelativeDocumentMoniker": "Syst.cs",
+              "ToolTip": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\Syst.cs",
+              "RelativeToolTip": "Syst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:31:54.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\GUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwE4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T02:52:00.612Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -8,3 +8,6 @@ C:\Users\MCS\OneDrive\Bureau\session5\POC\exo4\GUI\obj\Debug\GUI.csproj.Generate
 C:\Users\MCS\OneDrive\Bureau\session5\POC\exo4\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
 C:\Users\MCS\OneDrive\Bureau\session5\POC\exo4\GUI\obj\Debug\GUI.exe
 C:\Users\MCS\OneDrive\Bureau\session5\POC\exo4\GUI\obj\Debug\GUI.pdb
+C:\Users\MCS\OneDrive\Bureau\session5\POC\exo4\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MCS\OneDrive\Bureau\session5\POC\exo4\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MCS\OneDrive\Bureau\session5\POC\exo4\GUI\obj\Debug\GUI.csproj.Up2Date

@@ -81,12 +81,13 @@
             // LblO
             // 
             this.LblO.AutoSize = true;
-            this.LblO.BackColor = System.Drawing.Color.Red;
+            this.LblO.BackColor = System.Drawing.Color.Gainsboro;
             this.LblO.Location = new System.Drawing.Point(134, 154);
             this.LblO.Name = "LblO";
             this.LblO.Size = new System.Drawing.Size(68, 20);
             this.LblO.TabIndex = 4;
             this.LblO.Text = "ON/OFF";
+            this.LblO.Click += new System.EventHandler(this.LblO_Click);
             // 
             // Activate
             // 
