@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\controllers\\alarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|c:\\users\\mcs\\onedrive\\bureau\\session5\\poc\\exo4\\serveur\\controllers\\alarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|solutionrelative:controllers\\alarmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|c:\\users\\mcs\\onedrive\\bureau\\session5\\poc\\exo4\\serveur\\views\\alarm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|solutionrelative:views\\alarm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\models\\securite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|solutionrelative:models\\securite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\views\\alarm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|solutionrelative:views\\alarm\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2189C5D8-EE26-4FBB-A3D1-6A2F01A783C6}|Serveur.csproj|C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\models\\systdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Securite.cs",
               "DocumentMoniker": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\Models\\Securite.cs",
               "RelativeDocumentMoniker": "Models\\Securite.cs",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\Views\\Alarm\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Alarm\\Index.cshtml",
               "ToolTip": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\Views\\Alarm\\Index.cshtml",
               "RelativeToolTip": "Views\\Alarm\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-25T02:08:46.242Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "Controllers\\AlarmController.cs",
               "ToolTip": "C:\\Users\\MCS\\OneDrive\\Bureau\\session5\\POC\\exo4\\Serveur\\Controllers\\AlarmController.cs",
               "RelativeToolTip": "Controllers\\AlarmController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwDYAAAAJAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T02:00:41.423Z",
               "EditorCaption": ""
@@ -86,6 +86,16 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T01:57:27.405Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1014,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
